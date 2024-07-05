@@ -1,6 +1,6 @@
 # On the relationship between life expectancy, modal age at death, and the threshold age of the life table entropy
 
-Supporting information for the paper *On the relationship between life expectancy, modal age at death, and the threshold age of the life table entropy* by Chiara MICHELETTI and Francisco VILLAVICENCIO, published in Demographic Research as part of the special collection in memory James W. Vaupel.
+Supporting information for the paper *On the relationship between life expectancy, modal age at death, and the threshold age of the life table entropy* by Chiara MICHELETTI and Francisco VILLAVICENCIO, published in Demographic Research as part of the special collection in memory of James W. Vaupel.
 
 This repository contains the following files and folders:
 * ThresholdAgeMode.R: R code to reproduce all the results and figures from the paper.
